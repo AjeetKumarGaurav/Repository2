@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="19426" started-at="2019-11-11T12:31:10 IST" finished-at="2019-11-11T12:31:30 IST">
+  <suite name="Default suite" duration-ms="52311" started-at="2019-11-11T13:25:45 IST" finished-at="2019-11-11T13:26:38 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="19426" started-at="2019-11-11T12:31:10 IST" finished-at="2019-11-11T12:31:30 IST">
-      <class name="com.test.qa.GooleTest">
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.test.qa.GooleTest@1d4520b]" name="test1" duration-ms="19314" started-at="2019-11-11T12:31:10 IST" finished-at="2019-11-11T12:31:30 IST">
+    <test name="Default test" duration-ms="52311" started-at="2019-11-11T13:25:45 IST" finished-at="2019-11-11T13:26:38 IST">
+      <class name="pkg.test.qa.GoogleTest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:pkg.test.qa.GoogleTest@1e2dbf3]" name="test1" duration-ms="52109" started-at="2019-11-11T13:25:46 IST" finished-at="2019-11-11T13:26:38 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-      </class> <!-- com.test.qa.GooleTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+      </class> <!-- pkg.test.qa.GoogleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
